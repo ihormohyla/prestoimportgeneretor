@@ -8,14 +8,13 @@
     "generate": "node index.js --url "
   },
   "keywords": [],
-  "author": "",
+  "author": "Ihor Mohyla",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
     "cyrillic-to-translit-js": "^3.2.1",
     "fast-csv": "^4.3.6",
     "fast-xml-parser": "^4.0.10",
-    "minimist": "^1.2.6",
-    "xml2js": "^0.4.23"
+    "minimist": "^1.2.6"
   }
 }
