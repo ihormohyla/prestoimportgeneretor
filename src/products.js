@@ -1,4 +1,4 @@
-const urlRewrite = require('./urlRevriter');
+const urlRewrite = require('./urlRewriter');
 
 module.exports = {
     getCategory: function(product, categories) {
