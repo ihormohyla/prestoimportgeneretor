@@ -1,0 +1,21 @@
+{
+  "name": "prestoimportgeneretor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate.js --url "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cyrillic-to-translit-js": "^3.2.1",
+    "fast-csv": "^4.3.6",
+    "fast-xml-parser": "^4.0.10",
+    "minimist": "^1.2.6",
+    "xml2js": "^0.4.23"
+  }
+}
